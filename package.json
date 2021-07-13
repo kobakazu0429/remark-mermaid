@@ -1,0 +1,17 @@
+{
+  "name": "remark-mermaid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kobakazu0429/remark-mermaid.git",
+  "author": "kobakakzu0429 <kobakazu10@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ulid": "^2.3.0",
+    "unist-util-visit": "2.0.3",
+    "which": "^2.0.2"
+  },
+  "peerDependencies": {
+    "remark": "^13.0.0",
+    "@mermaid-js/mermaid-cli": "^8.11.0"
+  }
+}
